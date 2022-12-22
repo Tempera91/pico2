@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "spi.h": "c",
+        "stdio.h": "c",
+        "mics_hw.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1640084068 source:/home/simone/pico2/prove/prove2/buffers.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	<malloc.h>
+	"buffer.h"
+
+1640160257 /home/simone/pico2/prove/prove2/buffer.h
+
+1641399485 source:/home/simone/pico2/prove/prove2/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	<malloc.h>
+

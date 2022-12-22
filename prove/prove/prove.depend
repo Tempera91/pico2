@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639996280 source:/home/simone/pico2/prove/prove/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdint-gcc.h>
+	<stdbool.h>
+	<malloc.h>
+

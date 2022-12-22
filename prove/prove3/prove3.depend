@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651740953 source:/home/simone/pico2/prove/prove3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+

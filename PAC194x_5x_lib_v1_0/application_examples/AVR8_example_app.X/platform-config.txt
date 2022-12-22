@@ -1,0 +1,17 @@
+AVR8 board: ATMEGA4809 Xplained PRO
+- VCC SEL jumper: 3.3V
+
+PAC194x/5x board: PAC194x/5x PDB, with PAC194x/5x PIM on DUT1 position
+- J10 VIN selector: HOST
+- J9 PDN selector: open
+- J12 SLOW selector: AUTO
+- J6 USB i2c bridge: disabled <-> jumper connected
+- J13 VDD selector: 3.3V 
+- J1 DUT SLOW selector: GND
+- J8 header
+    - GND pin:      connected to ATMEGA4809 board mikroBUS GND
+    - VIN_HOST pin: connected to ATMEGA4809 board mikroBUS +3.3V
+    - SDA pin:      connected to ATMEGA4809 board mikroBUS PC2/SDA
+    - SCL pin:      connected to ATMEGA4809 mikroBUS PC3/SCL
+    - SLOW_CMD pin: connected to one of the three J10 VIN pins
+    - PWRDN pin:    not connected

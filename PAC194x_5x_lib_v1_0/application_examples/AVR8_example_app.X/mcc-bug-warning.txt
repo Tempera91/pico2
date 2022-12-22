@@ -1,0 +1,4 @@
+MCC generates a bug in the PORTMUX configuration for the selected TWI0 routing:
+pin_manager.c: 
+    //ru bug PORTMUX.TWISPIROUTEA = 0x10;
+    PORTMUX.TWISPIROUTEA = 0x20
